@@ -319,6 +319,28 @@ const DATA = [
   "abs": "Spatially mapping the transcriptome and proteome in the same tissue section can profoundly advance our understanding of cellular heterogeneity and function. Here we present Deterministic Barcoding in Tissue sequencing plus (DBiTplus), an integrative multimodal spatial omics approach combining sequencing-based spatial transcriptomics and multiplexed protein imaging on the same section, enabling both single-cell-resolution cell typing and transcriptome-wide interrogation of biological pathways. DBiTplus utilizes spatial barcoding and RNase H-mediated cDNA retrieval, preserving tissue architecture for multiplexed protein imaging. We developed computational pipelines to integrate these modalities, allowing imaging-guided deconvolution to generate single-cell-resolved spatial transcriptome atlases. We demonstrate DBiTplus across diverse samples including frozen mouse embryos, and formalin-fix…"
  },
  {
+  "id": 420,
+  "date": "2026-08",
+  "journal": "Cancer Discovery",
+  "tool": "IN-DEPTH",
+  "name": "IN-DEPTH",
+  "first": "",
+  "corr": "",
+  "cat": "空间多组学整合",
+  "subcat": "同一张切片的多组学整合",
+  "innov": "在同一张切片上做多组学整合，避免相邻切片带来的错位问题。",
+  "sig": "",
+  "link": "https://doi.org/10.1158/2159-8290.cd-25-0775",
+  "vol": "Cancer Discov 2026, 16:1611-1648",
+  "cite": 11,
+  "note": "",
+  "added": "2026-11-08",
+  "new": true,
+  "extra": [
+   "多组学"
+  ]
+ },
+ {
   "id": 415,
   "date": "2026-08",
   "journal": "Nature Communications",
@@ -675,6 +697,28 @@ const DATA = [
   ],
   "fig": "figs/s41586-026-10452-4.jpg",
   "abs": "Multicellular programs in the tumour microenvironment (TME) drive cancer pathogenesis and response to therapy but remain challenging to identify and profile clinically<sup>1-3</sup>. Here, we present a machine-learning framework for multi-analyte profiling of spatially dependent cell states and multicellular ecosystems, termed spatial ecotypes (SEs). By integrating over 10 million single-cell and spot-level spatial transcriptomes from diverse human carcinomas and melanomas, we identified nine SEs with broad conservation, each of which has unique biology, geospatial features and clinical outcome associations, including several linked to immunotherapy response. Notably, SEs were distinguishable by DNA methylation profiling and were recoverable from plasma cell-free DNA (cfDNA) using deep learning. In cfDNA from nearly 100 patients with melanoma, SE levels exhibited striking associations wi…"
+ },
+ {
+  "id": 421,
+  "date": "2026-05",
+  "journal": "Briefings in Bioinformatics",
+  "tool": "跨模态表征与多样本整合",
+  "name": "跨模态表征与多样本整合",
+  "first": "",
+  "corr": "",
+  "cat": "空间多组学整合",
+  "subcat": "跨模态表征/多样本",
+  "innov": "面向空间组学数据学跨模态表征，并支持多样本整合。",
+  "sig": "",
+  "link": "https://doi.org/10.1093/bib/bbag214",
+  "vol": "Brief Bioinform 2026, 27:bbag214",
+  "cite": 9,
+  "note": "",
+  "added": "2026-11-08",
+  "new": true,
+  "extra": [
+   "多组学"
+  ]
  },
  {
   "id": 374,
@@ -1898,6 +1942,28 @@ const DATA = [
   "abs": "Emerging imaging spatial transcriptomics (iST) platforms and coupled analytical methods can recover cell-to-cell interactions, groups of spatially covarying genes, and gene signatures associated with pathological features, and are thus particularly well-suited for applications in formalin fixed paraffin embedded (FFPE) tissues. Here, we benchmark the performance of three commercial iST platforms-10X Xenium, Vizgen MERSCOPE, and Nanostring CosMx-on serial sections from tissue microarrays (TMAs) containing 17 tumor and 16 normal tissue types for both relative technical and biological performance. On matched genes, we find that Xenium consistently generates higher transcript counts per gene without sacrificing specificity. Xenium and CosMx measure RNA transcripts in concordance with orthogonal single-cell transcriptomics. All three platforms can perform spatially resolved cell typing with v…"
  },
  {
+  "id": 418,
+  "date": "2025-10",
+  "journal": "Nature Communications",
+  "tool": "MultiGATE",
+  "name": "MultiGATE",
+  "first": "",
+  "corr": "",
+  "cat": "空间多组学整合",
+  "subcat": "图表示学习/调控推断",
+  "innov": "用图表示学习整合空间多组学数据，并顺带推断调控关系。",
+  "sig": "",
+  "link": "https://doi.org/10.1038/s41467-025-63418-x",
+  "vol": "Nat Commun 2025, 16:9403",
+  "cite": 8,
+  "note": "",
+  "added": "2026-11-08",
+  "new": true,
+  "extra": [
+   "多组学"
+  ]
+ },
+ {
   "id": 404,
   "date": "2025-10",
   "journal": "Nucleic Acids Research",
@@ -2144,6 +2210,28 @@ const DATA = [
   "added": "2026-11-08",
   "new": true,
   "extra": []
+ },
+ {
+  "id": 419,
+  "date": "2025-07",
+  "journal": "Briefings in Bioinformatics",
+  "tool": "spaLLM",
+  "name": "spaLLM",
+  "first": "",
+  "corr": "",
+  "cat": "空间多组学整合",
+  "subcat": "大语言模型辅助/空间域分析",
+  "innov": "把大语言模型接进多组学空转的空间域分析流程，用语言模型的知识补充特征。",
+  "sig": "",
+  "link": "https://doi.org/10.1093/bib/bbaf304",
+  "vol": "Brief Bioinform 2025, 26:bbaf304",
+  "cite": 10,
+  "note": "",
+  "added": "2026-11-08",
+  "new": true,
+  "extra": [
+   "多组学"
+  ]
  },
  {
   "id": 409,
@@ -2430,6 +2518,28 @@ const DATA = [
   "extra": [],
   "fig": "figs/s41586-025-08757-x.jpg",
   "abs": "Depicting spatial distributions of disease-relevant cells is crucial for understanding disease pathology<sup>1,2</sup>. Here we present genetically informed spatial mapping of cells for complex traits (gsMap), a method that integrates spatial transcriptomics data with summary statistics from genome-wide association studies to map cells to human complex traits, including diseases, in a spatially resolved manner. Using embryonic spatial transcriptomics datasets covering 25 organs, we benchmarked gsMap through simulation and by corroborating known trait-associated cells or regions in various organs. Applying gsMap to brain spatial transcriptomics data, we reveal that the spatial distribution of glutamatergic neurons associated with schizophrenia more closely resembles that for cognitive traits than that for mood traits such as depression. The schizophrenia-associated glutamatergic neurons w…"
+ },
+ {
+  "id": 422,
+  "date": "2025-04",
+  "journal": "PNAS",
+  "tool": "空间表观转录与谱系联合方法",
+  "name": "空间表观转录与谱系联合方法",
+  "first": "",
+  "corr": "",
+  "cat": "空间多组学整合",
+  "subcat": "表观组+转录组+谱系",
+  "innov": "在一套流程里同时测空间表观组、转录组和细胞谱系，把三种信息对齐到同一张切片上。",
+  "sig": "",
+  "link": "https://doi.org/10.1073/pnas.2424070122",
+  "vol": "PNAS 2025, 122:e2424070122",
+  "cite": 17,
+  "note": "",
+  "added": "2026-11-08",
+  "new": true,
+  "extra": [
+   "多组学"
+  ]
  },
  {
   "id": 401,
