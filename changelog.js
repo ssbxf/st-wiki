@@ -191,5 +191,10 @@ const CHANGELOG = [
   "date": "2026-11-07",
   "note": "晚八点例行更新：补 20 篇方法类（STANCE、STPath、RNA2seg、RASP 等）",
   "items": []
+ },
+ {
+  "date": "2026-11-08",
+  "note": "晚八点例行更新：按引用追踪补 14 篇（SIMVI、SpatialLeiden、stClinic、CellLENS 等）",
+  "items": []
  }
 ];
