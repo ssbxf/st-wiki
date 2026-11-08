@@ -1,5 +1,25 @@
 const DATA = [
  {
+  "id": 414,
+  "date": "2026-11",
+  "journal": "Nature Methods",
+  "tool": "DIRAC",
+  "name": "DIRAC",
+  "first": "Chang Xu",
+  "corr": "",
+  "cat": "空间多组学整合",
+  "subcat": "域自适应/整合与注释",
+  "innov": "用域自适应学习的思路把空间多组学数据整合到一起，并在整合的同时完成细胞类型注释。",
+  "sig": "把整合和注释放在同一个框架里做，减少两步结果对不上的问题。",
+  "link": "https://doi.org/10.1038/s41592-026-03282-9",
+  "vol": "Nat Methods 2026",
+  "cite": 0,
+  "note": "",
+  "added": "2026-11-08",
+  "new": true,
+  "extra": []
+ },
+ {
   "id": 383,
   "date": "2026-10",
   "journal": "Nature Communications",
@@ -247,6 +267,26 @@ const DATA = [
   "name": "DBiTplus",
   "extra": [],
   "abs": "Spatially mapping the transcriptome and proteome in the same tissue section can profoundly advance our understanding of cellular heterogeneity and function. Here we present Deterministic Barcoding in Tissue sequencing plus (DBiTplus), an integrative multimodal spatial omics approach combining sequencing-based spatial transcriptomics and multiplexed protein imaging on the same section, enabling both single-cell-resolution cell typing and transcriptome-wide interrogation of biological pathways. DBiTplus utilizes spatial barcoding and RNase H-mediated cDNA retrieval, preserving tissue architecture for multiplexed protein imaging. We developed computational pipelines to integrate these modalities, allowing imaging-guided deconvolution to generate single-cell-resolved spatial transcriptome atlases. We demonstrate DBiTplus across diverse samples including frozen mouse embryos, and formalin-fix…"
+ },
+ {
+  "id": 415,
+  "date": "2026-08",
+  "journal": "Nature Communications",
+  "tool": "CoxFormer",
+  "name": "CoxFormer",
+  "first": "Yiyang Yang",
+  "corr": "",
+  "cat": "图像-表达联合建模与表达预测",
+  "subcat": "多模态生成/全转录组推断",
+  "innov": "用多模态生成模型，从已有的空间组学数据推断出全转录组的表达，补上靶向 panel 没测到的基因。",
+  "sig": "让只有靶向基因 panel 的空间数据也能得到接近全转录组的表达谱。",
+  "link": "https://doi.org/10.1038/s41467-026-76404-8",
+  "vol": "Nat Commun 2026, 17:9947",
+  "cite": 0,
+  "note": "",
+  "added": "2026-11-08",
+  "new": true,
+  "extra": []
  },
  {
   "id": 395,
