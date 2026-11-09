@@ -849,6 +849,28 @@ const DATA = [
   "abs": "Incorporating space and time into models of cell fate transition will be a key step toward characterizing how interactions among neighboring cells, local niche factors and cell migration contribute to tissue development. Here we propose Topological Velocity Inference (TopoVelo), a model for jointly inferring spatial and temporal dynamics of cell fate transition from spatial transcriptomic data. TopoVelo extends the RNA velocity framework to model single-cell gene expression dynamics of an entire tissue with spatially coupled differential equations. TopoVelo estimates cell velocity from developing mouse cerebral cortex, learns interpretable spatial cell state dependencies that correlate with the expression of ligand-receptor genes and reveals spatial signatures of mouse neural tube closure. Finally, we generate Slide-seq data from an in vitro model of human development and use TopoVelo to…"
  },
  {
+  "id": 423,
+  "date": "2026-04",
+  "journal": "Advanced Science",
+  "tool": "CANDIES",
+  "name": "CANDIES",
+  "first": "Yu Liu",
+  "corr": "",
+  "cat": "空间多组学整合",
+  "subcat": "跨模态去噪与整合",
+  "innov": "把跨模态去噪和整合放进一个框架，先把各模态的噪声压下去再做融合。",
+  "sig": "多模态空间数据噪声大时，先降噪再整合能明显改善下游分析。",
+  "link": "https://doi.org/10.1002/advs.202523754",
+  "vol": "Adv Sci 2026, 13:e23754",
+  "cite": 6,
+  "note": "",
+  "added": "2026-11-09",
+  "new": true,
+  "extra": [
+   "多组学"
+  ]
+ },
+ {
   "id": 406,
   "date": "2026-04",
   "journal": "Small Methods",
@@ -1058,6 +1080,28 @@ const DATA = [
   "abs": "In dynamic biological processes such as development, spatial transcriptomics is revolutionizing the study of the mechanisms underlying spatial organization within tissues. Inferring cell fate trajectories from spatial transcriptomics profiled at several time points has thus emerged as a critical goal, requiring novel computational methods. Wasserstein gradient flow learning is a promising framework for analyzing sequencing data across time, built around a neural network representing the differentiation potential. However, existing gradient flow learning methods face challenges in analyzing spatially resolved transcriptomic data. Here, we propose STORIES, a method that uses an extension of Optimal Transport to learn a spatially informed potential. We benchmark our approach using three large Stereo-seq spatiotemporal atlases and demonstrate superior spatial coherence compared to existing a…"
  },
  {
+  "id": 424,
+  "date": "2026-02",
+  "journal": "Cell Reports Methods",
+  "tool": "空间多组学整合流程 CRI",
+  "name": "CRI 分析流程",
+  "first": "Jahangir Kriel",
+  "corr": "",
+  "cat": "空间多组学整合",
+  "subcat": "实验+分析一体化流程",
+  "innov": "给出一套从实验到分析的空间多组学整合流程，用于肿瘤组织的统一分析。",
+  "sig": "想上手做空间多组学的人可以先照这套流程走一遍。",
+  "link": "https://doi.org/10.1016/j.crmeth.2026.101306",
+  "vol": "Cell Rep Methods 2026, 6:101306",
+  "cite": 5,
+  "note": "",
+  "added": "2026-11-09",
+  "new": true,
+  "extra": [
+   "多组学"
+  ]
+ },
+ {
   "id": 394,
   "date": "2026-02",
   "journal": "Nature Communications",
@@ -1219,6 +1263,48 @@ const DATA = [
   "name": "计算阵列重建",
   "extra": [],
   "abs": "Spatial transcriptomics enables gene expression mapping within tissues but is often limited by imaging constraints. We present an imaging-free approach that reconstructs spatial barcode locations using molecular diffusion and dimensionality reduction. Validated against ground truth imaging, our method achieves high fidelity and scales to centimeter-sized tissues. This approach enhances spatial transcriptomics' accessibility and throughput, enabling large-scale studies without specialized imaging equipment."
+ },
+ {
+  "id": 426,
+  "date": "2026-01",
+  "journal": "Nature Communications",
+  "tool": "转录组与代谢组的空间整合分析",
+  "name": "转录+代谢空间整合",
+  "first": "Emma C Williams",
+  "corr": "",
+  "cat": "空间多组学整合",
+  "subcat": "转录组+代谢组/损伤模型",
+  "innov": "把空间转录组和空间代谢组放在一起做整合分析，用于组织损伤研究。",
+  "sig": "给出了转录与代谢两类空间数据整合的具体做法和解读思路。",
+  "link": "https://doi.org/10.1038/s41467-025-68003-w",
+  "vol": "Nat Commun 2026, 17:205",
+  "cite": 13,
+  "note": "",
+  "added": "2026-11-09",
+  "new": true,
+  "extra": [
+   "多组学"
+  ]
+ },
+ {
+  "id": 425,
+  "date": "2026-01",
+  "journal": "Genome Biology",
+  "tool": "多癌种空转平台技术比较",
+  "name": "平台技术比较",
+  "first": "Sandra Cervilla",
+  "corr": "",
+  "cat": "质量控制与基准评测",
+  "subcat": "多平台对比/六种癌症",
+  "innov": "在六种癌症上比较不同空转平台的技术表现，包括灵敏度、分辨率与成本。",
+  "sig": "选平台前可以先看这篇，知道哪家在什么组织里更稳。",
+  "link": "https://doi.org/10.1186/s13059-026-03937-y",
+  "vol": "Genome Biol 2026, 27:22",
+  "cite": 34,
+  "note": "",
+  "added": "2026-11-09",
+  "new": true,
+  "extra": []
  },
  {
   "id": 403,
