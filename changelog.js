@@ -196,5 +196,10 @@ const CHANGELOG = [
   "date": "2026-11-08",
   "note": "晚八点例行更新：按引用追踪补 14 篇（SIMVI、SpatialLeiden、stClinic、CellLENS 等）",
   "items": []
+ },
+ {
+  "date": "2026-11-09",
+  "note": "按公众号线索补 15 篇：多组学 4 篇 + 其他方向 11 篇（TACIT、Bering、MAEST、SCALE 等）",
+  "items": []
  }
 ];
