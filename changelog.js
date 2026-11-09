@@ -201,5 +201,10 @@ const CHANGELOG = [
   "date": "2026-11-09",
   "note": "按公众号线索补 15 篇：多组学 4 篇 + 其他方向 11 篇（TACIT、Bering、MAEST、SCALE 等）",
   "items": []
+ },
+ {
+  "date": "2026-11-09",
+  "note": "晚八点例行更新：补 3 篇空间表观与全长转录组相关方法",
+  "items": []
  }
 ];
