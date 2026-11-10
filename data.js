@@ -19,7 +19,8 @@ const DATA = [
   "new": true,
   "extra": [
    "多组学"
-  ]
+  ],
+  "fig": "figs/s41592-026-03253-0.jpg"
  },
  {
   "id": 417,
@@ -41,7 +42,8 @@ const DATA = [
   "new": true,
   "extra": [
    "多组学"
-  ]
+  ],
+  "fig": "figs/s41588-026-02821-6.jpg"
  },
  {
   "id": 414,
@@ -63,7 +65,8 @@ const DATA = [
   "new": true,
   "extra": [
    "多组学"
-  ]
+  ],
+  "fig": "figs/s41592-026-03282-9.jpg"
  },
  {
   "id": 383,
@@ -84,7 +87,8 @@ const DATA = [
   "abs": "Mapping cell-type-specific spatial gene programs uncovers tissue architecture and microenvironment organization.",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-026-78447-3.jpg"
  },
  {
   "id": 119,
@@ -169,7 +173,8 @@ const DATA = [
   "new": true,
   "extra": [
    "多组学"
-  ]
+  ],
+  "fig": "figs/s41592-026-03217-4.jpg"
  },
  {
   "id": 416,
@@ -338,6 +343,7 @@ const DATA = [
   "added": "2026-11-06",
   "name": "SACCELERATOR",
   "extra": [],
+  "fig": "figs/s41592-026-03194-8.jpg",
   "abs": "Spatial omics technologies have revolutionized the study of tissue architecture and cellular heterogeneity by integrating molecular profiles with spatial localization. In spatially resolved transcriptomics, delineating higher-order anatomical structures is critical for understanding how cellular organization affects function. However, the reliability of current benchmarks of spatially aware clustering (SAC) methods is undermined by their narrow focus on Visium and brain tissue datasets and the incorrect interpretation of manual annotation as ground truth. Here we present SACCELERATOR, a community-driven, extensible framework that standardizes data formatting, method integration and metric evaluation, enabling rapid inclusion of new methods and datasets. Our analysis revealed substantial limitations in the generalizability and reproducibility of SAC methods and shows that anatomical label…"
  },
  {
@@ -380,7 +386,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-026-75649-7.jpg"
  },
  {
   "id": 420,
@@ -402,7 +409,8 @@ const DATA = [
   "new": true,
   "extra": [
    "多组学"
-  ]
+  ],
+  "fig": "figs/2159-8290.cd-25-0775.jpg"
  },
  {
   "id": 415,
@@ -422,7 +430,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-026-76404-8.jpg"
  },
  {
   "id": 395,
@@ -442,7 +451,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/btag609.jpg"
  },
  {
   "id": 134,
@@ -611,7 +621,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-10",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/bbag417.jpg"
  },
  {
   "id": 459,
@@ -631,7 +642,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-10",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/bbag387.jpg"
  },
  {
   "id": 439,
@@ -651,7 +663,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41592-026-03174-y.jpg"
  },
  {
   "id": 135,
@@ -734,7 +747,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-026-74464-4.jpg"
  },
  {
   "id": 410,
@@ -754,7 +768,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/btag450.jpg"
  },
  {
   "id": 102,
@@ -860,7 +875,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-026-73404-6.jpg"
  },
  {
   "id": 421,
@@ -882,7 +898,8 @@ const DATA = [
   "new": true,
   "extra": [
    "多组学"
-  ]
+  ],
+  "fig": "figs/bbag214.jpg"
  },
  {
   "id": 374,
@@ -926,7 +943,8 @@ const DATA = [
   "new": true,
   "extra": [
    "多组学"
-  ]
+  ],
+  "fig": "figs/advs.75478.jpg"
  },
  {
   "id": 116,
@@ -1030,7 +1048,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-10",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s43018-026-01142-1.jpg"
  },
  {
   "id": 453,
@@ -1050,7 +1069,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-026-71720-5.jpg"
  },
  {
   "id": 452,
@@ -1070,7 +1090,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-026-72284-0.jpg"
  },
  {
   "id": 423,
@@ -1092,7 +1113,8 @@ const DATA = [
   "new": true,
   "extra": [
    "多组学"
-  ]
+  ],
+  "fig": "figs/advs.202523754.jpg"
  },
  {
   "id": 406,
@@ -1112,7 +1134,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/smtd.202600006.jpg"
  },
  {
   "id": 117,
@@ -1174,7 +1197,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/qzaf085.jpg"
  },
  {
   "id": 405,
@@ -1194,7 +1218,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/j.crmeth.2026.101376.jpg"
  },
  {
   "id": 378,
@@ -1214,7 +1239,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-07",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s12539-025-00811-6.jpg"
  },
  {
   "id": 377,
@@ -1341,7 +1367,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-10",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41551-025-01602-6.jpg"
  },
  {
   "id": 424,
@@ -1363,7 +1390,8 @@ const DATA = [
   "new": true,
   "extra": [
    "多组学"
-  ]
+  ],
+  "fig": "figs/j.crmeth.2026.101306.jpg"
  },
  {
   "id": 394,
@@ -1383,7 +1411,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-026-69677-6.jpg"
  },
  {
   "id": 371,
@@ -1546,7 +1575,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-026-68500-6.jpg"
  },
  {
   "id": 433,
@@ -1566,7 +1596,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/gkaf1456.jpg"
  },
  {
   "id": 426,
@@ -1588,7 +1619,8 @@ const DATA = [
   "new": true,
   "extra": [
    "多组学"
-  ]
+  ],
+  "fig": "figs/s41467-025-68003-w.jpg"
  },
  {
   "id": 425,
@@ -1608,7 +1640,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s13059-026-03937-y.jpg"
  },
  {
   "id": 403,
@@ -1649,7 +1682,8 @@ const DATA = [
   "abs": "Robust and interpretable prediction of gene markers and cell types from spatial transcriptomics data.",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-026-68487-0.jpg"
  },
  {
   "id": 381,
@@ -1669,7 +1703,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/bbag201.jpg"
  },
  {
   "id": 376,
@@ -1840,7 +1875,8 @@ const DATA = [
   "added": "2026-11-06",
   "new": true,
   "id": 327,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s13059-026-04063-5.jpg"
  },
  {
   "date": "2026",
@@ -1861,7 +1897,8 @@ const DATA = [
   "added": "2026-11-06",
   "new": true,
   "id": 326,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41592-026-03194-8.jpg"
  },
  {
   "id": 287,
@@ -1884,7 +1921,8 @@ const DATA = [
   "new": true,
   "extra": [
    "多组学"
-  ]
+  ],
+  "fig": "figs/s43588-026-01030-9.jpg"
  },
  {
   "id": 286,
@@ -1949,7 +1987,8 @@ const DATA = [
   "abs": "Spatial transcriptomics (ST) enables the study of tissue architecture by resolving gene expression in space, but current ST platforms are constrained by limited sequencing depth and indirect single-cell identification. Existing deconvolution methods that integrate single-cell RNA sequencing (scRNA-seq) data with ST often overlook the biological principle that cells in communication with each other tend to be closer spatially. Here we introduce SPADE, a deep learning framework that aligns scRNA-seq data to spatial locations by jointly modeling expression similarity between scRNA-seq and ST data and concordance between the spot distance and cell-cell communication (CCC) patterns. SPADE also enables quantitative characterization of CCC across spots and regions. Evaluations on 55 simulated and real datasets show that SPADE achieves strong performance in recovering region-specific cell-type p…",
   "added": "2026-11-06",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/advs.76142.jpg"
  },
  {
   "id": 283,
@@ -1970,7 +2009,8 @@ const DATA = [
   "abs": "Accurately predicting cellular responses to genetic perturbations is essential for understanding disease mechanisms and designing effective therapies. Yet, exhaustively exploring the space of possible perturbations (for example, multigene perturbations or across tissues and cell types) is prohibitively expensive, motivating methods that can generalize to unseen conditions. We present TxPert, a latent-transfer-based deep learning method that uses multiple knowledge graphs of gene (product)-gene (product) relationships to predict transcriptomic perturbation effects. Different knowledge graphs encode complementary information and we show that a combination of graphs derived from biological databases and high-throughput perturbation screens yields the best performance. For predictions of single unseen perturbations, TxPert approaches the performance of split-half experimental reproducibility…",
   "added": "2026-11-06",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41587-026-03113-4.jpg"
  },
  {
   "id": 281,
@@ -2034,7 +2074,8 @@ const DATA = [
   "abs": "Single-cell RNA sequencing has provided new insights into both intracellular and intercellular processes. However, multiple processes, such as cell-type programs, differentiation, and the cell cycle, often occur simultaneously within one cell. Existing methods typically target a single process and impose restrictive assumptions, risking the loss of valuable biological information. We introduce CellUntangler, a deep generative model that embeds cells into a latent space composed of multiple subspaces, each tailored with an appropriate geometry to capture a distinct signal. Applied to datasets of cycling-only and mixed cycling/non-cycling cells, CellUntangler disentangles the cell cycle from other processes such as cell type. The framework generalizes to disentangle additional signals, including spatial, tissue dissociation, interferon response, and cell-type identity. By providing flexibl…",
   "added": "2026-11-06",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/j.xgen.2025.101073.jpg"
  },
  {
   "id": 277,
@@ -2055,7 +2096,8 @@ const DATA = [
   "abs": "In multicellular systems, cell fate determination emerges from the integration of intracellular signaling and intercellular communication. Spatial transcriptomics (ST) provides opportunities to elucidate these regulatory processes, yet inferring the spatiotemporal dynamics of cell state transitions (CSTs) governed by cell-cell communication (CCC) remains a challenge. Here we introduce CCCvelo to reconstruct CCC-driven CST dynamics by jointly optimizing a dynamic CCC signaling network and a latent CST clock. CCCvelo formulates a unified multiscale nonlinear kinetic model that integrates intercellular ligand-receptor signaling gradients with intracellular transcription-factor activation cascades to capture gene expression dynamics encoding CSTs. Moreover, we devise PINN-CELL, a physics-informed neural-network-based coevolution learning algorithm, which simultaneously optimizes model parame…",
   "added": "2026-11-06",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s43588-025-00934-2.jpg"
  },
  {
   "id": 276,
@@ -2097,7 +2139,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-025-67421-0.jpg"
  },
  {
   "id": 413,
@@ -2119,7 +2162,8 @@ const DATA = [
   "new": true,
   "extra": [
    "多组学"
-  ]
+  ],
+  "fig": "figs/s42003-025-09312-0.jpg"
  },
  {
   "id": 402,
@@ -2139,7 +2183,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/j.ccell.2025.12.009.jpg"
  },
  {
   "id": 375,
@@ -2245,7 +2290,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-025-64867-0.jpg"
  },
  {
   "id": 412,
@@ -2265,7 +2311,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/j.crmeth.2025.101241.jpg"
  },
  {
   "id": 372,
@@ -2305,7 +2352,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-07",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/advs.202513210.jpg"
  },
  {
   "id": 365,
@@ -2391,7 +2439,8 @@ const DATA = [
   "new": true,
   "extra": [
    "多组学"
-  ]
+  ],
+  "fig": "figs/s41467-025-63418-x.jpg"
  },
  {
   "id": 404,
@@ -2411,7 +2460,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/gkaf1047.jpg"
  },
  {
   "id": 367,
@@ -2496,7 +2546,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-025-63414-1.jpg"
  },
  {
   "id": 437,
@@ -2516,7 +2567,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/advs.202509090.jpg"
  },
  {
   "id": 399,
@@ -2536,7 +2588,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s13059-025-03731-2.jpg"
  },
  {
   "id": 364,
@@ -2639,7 +2692,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-025-63141-7.jpg"
  },
  {
   "id": 445,
@@ -2659,7 +2713,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-025-63185-9.jpg"
  },
  {
   "id": 436,
@@ -2679,7 +2734,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41598-025-08733-5.jpg"
  },
  {
   "id": 411,
@@ -2719,7 +2775,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-025-63140-8.jpg"
  },
  {
   "id": 396,
@@ -2739,7 +2796,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/gkaf870.jpg"
  },
  {
   "id": 447,
@@ -2759,7 +2817,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-025-61142-0.jpg"
  },
  {
   "id": 435,
@@ -2779,7 +2838,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s12915-025-02290-z.jpg"
  },
  {
   "id": 428,
@@ -2799,7 +2859,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-025-60898-9.jpg"
  },
  {
   "id": 419,
@@ -2861,7 +2922,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s13059-025-03608-4.jpg"
  },
  {
   "id": 407,
@@ -2881,7 +2943,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/btaf403.jpg"
  },
  {
   "id": 72,
@@ -2963,7 +3026,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s13059-025-03637-z.jpg"
  },
  {
   "id": 392,
@@ -2983,7 +3047,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-025-60575-x.jpg"
  },
  {
   "id": 69,
@@ -3023,7 +3088,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-025-59839-3.jpg"
  },
  {
   "id": 398,
@@ -3043,7 +3109,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s13059-025-03588-5.jpg"
  },
  {
   "id": 393,
@@ -3063,7 +3130,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41590-025-02163-1.jpg"
  },
  {
   "id": 379,
@@ -3167,7 +3235,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-025-59139-w.jpg"
  },
  {
   "id": 427,
@@ -3187,7 +3256,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-025-58874-4.jpg"
  },
  {
   "id": 422,
@@ -3209,7 +3279,8 @@ const DATA = [
   "new": true,
   "extra": [
    "多组学"
-  ]
+  ],
+  "fig": "figs/pnas.2424070122.jpg"
  },
  {
   "id": 401,
@@ -3229,7 +3300,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-025-59448-0.jpg"
  },
  {
   "id": 111,
@@ -3383,7 +3455,8 @@ const DATA = [
   "new": true,
   "extra": [
    "多组学"
-  ]
+  ],
+  "fig": "figs/s41592-024-02576-0.jpg"
  },
  {
   "id": 429,
@@ -3403,7 +3476,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/bbaf086.jpg"
  },
  {
   "id": 390,
@@ -3423,7 +3497,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-025-58089-7.jpg"
  },
  {
   "id": 362,
@@ -3508,7 +3583,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41592-024-02513-1.jpg"
  },
  {
   "id": 400,
@@ -3528,7 +3604,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41467-025-57029-9.jpg"
  },
  {
   "id": 391,
@@ -3548,7 +3625,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-08",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s13059-025-03489-7.jpg"
  },
  {
   "id": 363,
@@ -3741,7 +3819,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s12859-025-06054-y.jpg"
  },
  {
   "id": 431,
@@ -3761,7 +3840,8 @@ const DATA = [
   "note": "",
   "added": "2026-11-09",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/smtd.202400975.jpg"
  },
  {
   "id": 369,
@@ -3973,7 +4053,8 @@ const DATA = [
   "added": "2026-11-06",
   "new": true,
   "id": 333,
-  "extra": []
+  "extra": [],
+  "fig": "figs/ijms26093949.jpg"
  },
  {
   "date": "2025",
@@ -4148,7 +4229,8 @@ const DATA = [
   "abs": "Advancements in spatial omics permit spatially resolved measurements across several biological modalities. The high cost of acquiring co-profiled multimodal data limits the analysis. This underscores the necessity for computational methods to integrate unpaired spatial multi-omics data and perform cross-modal predictions on single-modality data. The integration of spatial omics is challenging due to typically low signal-to-noise ratios. Here we introduce SWITCH (Spatially Weighted Multi-omics Integration and Cross-modal Translation with Cycle-mapping Harmonization), a deep generative model for spatial multi-omics integration. SWITCH presents a cycle-mapping mechanism that produces dependable cross-modal translations without requiring additional paired data. These cross-modal translations function as pseudo-pairs to provide supplementary signals. Systematic evaluations demonstrate that SW…",
   "added": "2026-11-06",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s43588-025-00891-w.jpg"
  },
  {
   "id": 275,
@@ -5036,7 +5118,8 @@ const DATA = [
   "new": true,
   "id": 173,
   "platform": "Web",
-  "extra": []
+  "extra": [],
+  "fig": "figs/btae117.jpg"
  },
  {
   "date": "2024-03",
@@ -5057,7 +5140,8 @@ const DATA = [
   "new": true,
   "id": 172,
   "platform": "R",
-  "extra": []
+  "extra": [],
+  "fig": "figs/btae089.jpg"
  },
  {
   "date": "2024-03",
@@ -5078,7 +5162,8 @@ const DATA = [
   "new": true,
   "id": 155,
   "platform": "Python",
-  "extra": []
+  "extra": [],
+  "fig": "figs/bbad533.jpg"
  },
  {
   "date": "2024-03",
@@ -5100,7 +5185,8 @@ const DATA = [
   "id": 154,
   "platform": "Python & R",
   "model": "Transfer learning framework",
-  "extra": []
+  "extra": [],
+  "fig": "figs/bbae063.jpg"
  },
  {
   "date": "2024-03",
@@ -5232,7 +5318,8 @@ const DATA = [
   "id": 174,
   "platform": "R",
   "model": "Neural networks",
-  "extra": []
+  "extra": [],
+  "fig": "figs/btae072.jpg"
  },
  {
   "date": "2024-02",
@@ -5365,7 +5452,8 @@ const DATA = [
   "id": 175,
   "platform": "Python",
   "model": "Graph deep learning and GNNS",
-  "extra": []
+  "extra": [],
+  "fig": "figs/btae023.jpg"
  },
  {
   "date": "2024-01",
@@ -5387,7 +5475,8 @@ const DATA = [
   "id": 158,
   "platform": "Python",
   "model": "Deep learning",
-  "extra": []
+  "extra": [],
+  "fig": "figs/bbad464.jpg"
  },
  {
   "date": "2024-01",
@@ -5431,7 +5520,8 @@ const DATA = [
   "id": 156,
   "platform": "Python & R",
   "model": "GAN",
-  "extra": []
+  "extra": [],
+  "fig": "figs/bbad469.jpg"
  },
  {
   "id": 127,
@@ -5496,7 +5586,8 @@ const DATA = [
   "added": "2026-11-06",
   "new": true,
   "id": 340,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s00432-024-05816-0.jpg"
  },
  {
   "date": "2024",
@@ -5517,7 +5608,8 @@ const DATA = [
   "added": "2026-11-06",
   "new": true,
   "id": 339,
-  "extra": []
+  "extra": [],
+  "fig": "figs/j.xgen.2024.100723.jpg"
  },
  {
   "date": "2024",
@@ -5559,7 +5651,8 @@ const DATA = [
   "added": "2026-11-06",
   "new": true,
   "id": 331,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s12943-024-02040-9.jpg"
  },
  {
   "date": "2024",
@@ -5580,7 +5673,8 @@ const DATA = [
   "added": "2026-11-06",
   "new": true,
   "id": 321,
-  "extra": []
+  "extra": [],
+  "fig": "figs/elife.88431.jpg"
  },
  {
   "date": "2024",
@@ -6174,7 +6268,8 @@ const DATA = [
   "added": "2026-11-06",
   "new": true,
   "id": 186,
-  "extra": []
+  "extra": [],
+  "fig": "figs/gkad419.jpg"
  },
  {
   "date": "2023-05",
@@ -6497,7 +6592,8 @@ const DATA = [
   "abs": "Genome instability and aberrant alterations of transcriptional programs both play important roles in cancer. Single-cell RNA sequencing (scRNA-seq) has the potential to investigate both genetic and nongenetic sources of tumor heterogeneity in a single assay. Here we present a computational method, Numbat, that integrates haplotype information obtained from population-based phasing with allele and expression signals to enhance detection of copy number variations from scRNA-seq. Numbat exploits the evolutionary relationships between subclones to iteratively infer single-cell copy number profiles and tumor clonal phylogeny. Analysis of 22 tumor samples, including multiple myeloma, gastric, breast and thyroid cancers, shows that Numbat can reconstruct the tumor copy number profile and precisely identify malignant cells in the tumor microenvironment. We identify genetic subpopulations with tr…",
   "added": "2026-11-06",
   "new": true,
-  "extra": []
+  "extra": [],
+  "fig": "figs/s41587-022-01468-y.jpg"
  },
  {
   "date": "2022-12",
@@ -6519,7 +6615,8 @@ const DATA = [
   "id": 191,
   "platform": "Python",
   "model": "VGAE + DAE",
-  "extra": []
+  "extra": [],
+  "fig": "figs/gkac901.jpg"
  },
  {
   "id": 41,
@@ -6857,7 +6954,8 @@ const DATA = [
   "added": "2026-11-06",
   "new": true,
   "id": 165,
-  "extra": []
+  "extra": [],
+  "fig": "figs/bbac245.jpg"
  },
  {
   "date": "2022-07",
@@ -6941,7 +7039,8 @@ const DATA = [
   "id": 192,
   "platform": "R",
   "model": "EM",
-  "extra": []
+  "extra": [],
+  "fig": "figs/gkac219.jpg"
  },
  {
   "date": "2022-05",
@@ -6963,7 +7062,8 @@ const DATA = [
   "id": 166,
   "platform": "R",
   "model": "Statistics(pattern and spatial neighborhood)",
-  "extra": []
+  "extra": [],
+  "fig": "figs/bbac116.jpg"
  },
  {
   "id": 35,
@@ -7152,7 +7252,8 @@ const DATA = [
   "id": 178,
   "platform": "R",
   "model": "spatially aware manner",
-  "extra": []
+  "extra": [],
+  "fig": "figs/btac368.jpg"
  },
  {
   "id": 34,
@@ -7217,7 +7318,8 @@ const DATA = [
   "id": 179,
   "platform": "Python",
   "model": "Statistics(joint probabilistic likelihood function)",
-  "extra": []
+  "extra": [],
+  "fig": "figs/btab704.jpg"
  },
  {
   "date": "2022-01",
@@ -7392,7 +7494,8 @@ const DATA = [
   "id": 181,
   "platform": "Python",
   "model": "Simulate diffusion of individual transcripts",
-  "extra": []
+  "extra": [],
+  "fig": "figs/btab164.jpg"
  },
  {
   "date": "2021-09",
@@ -7501,6 +7604,7 @@ const DATA = [
   "id": 190,
   "platform": "Python",
   "model": "PRECISE",
-  "extra": []
+  "extra": [],
+  "fig": "figs/gkaa740.jpg"
  }
 ];
