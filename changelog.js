@@ -206,5 +206,10 @@ const CHANGELOG = [
   "date": "2026-11-09",
   "note": "晚八点例行更新：补 3 篇空间表观与全长转录组相关方法",
   "items": []
+ },
+ {
+  "date": "2026-11-11",
+  "note": "晚八点例行更新：引用追踪补 8 篇（spatialproteomics、SpaMV、MultiSP、TiRank 等）",
+  "items": []
  }
 ];
