@@ -211,5 +211,10 @@ const CHANGELOG = [
   "date": "2026-11-11",
   "note": "晚八点例行更新：引用追踪补 8 篇（spatialproteomics、SpaMV、MultiSP、TiRank 等）",
   "items": []
+ },
+ {
+  "date": "2026-11-12",
+  "note": "晚八点例行更新：引用追踪补 7 篇（Kandinsky、stDyer-image、HRCHY-CytoCommunity、sosta 等）",
+  "items": []
  }
 ];
