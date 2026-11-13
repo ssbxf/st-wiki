@@ -216,5 +216,10 @@ const CHANGELOG = [
   "date": "2026-11-12",
   "note": "晚八点例行更新：引用追踪补 7 篇（Kandinsky、stDyer-image、HRCHY-CytoCommunity、sosta 等）",
   "items": []
+ },
+ {
+  "date": "2026-11-13",
+  "note": "晚八点例行更新：期刊扫描补 11 篇（smiDE、stGCL、CELLama、PreTSA、ResSAT 等）",
+  "items": []
  }
 ];
