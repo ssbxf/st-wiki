@@ -226,5 +226,10 @@ const CHANGELOG = [
   "date": "2026-11-14",
   "note": "晚八点例行更新：引用追踪补 6 篇（Hist2Cell、VISTA、空间异构体测序、RamanOmics 等）",
   "items": []
+ },
+ {
+  "date": "2026-11-15",
+  "note": "晚八点例行更新：Nat Methods 扫描补 6 篇（Xenium 评估、stVCR、SpaceBar、STORIES、GeneSPOT 等）",
+  "items": []
  }
 ];
