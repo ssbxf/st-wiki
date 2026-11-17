@@ -236,5 +236,10 @@ const CHANGELOG = [
   "date": "2026-11-17",
   "note": "例行更新：Science/Cell Genomics 扫描补 6 篇（SOAR、DeepScence、STMiner、OmicsTweezer 等）",
   "items": []
+ },
+ {
+  "date": "2026-11-18",
+  "note": "例行更新：引用追踪补 3 篇（机器学习综述、单细胞+空间联合插补、肿瘤微环境综述）",
+  "items": []
  }
 ];
