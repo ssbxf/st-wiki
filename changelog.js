@@ -231,5 +231,10 @@ const CHANGELOG = [
   "date": "2026-11-15",
   "note": "晚八点例行更新：Nat Methods 扫描补 6 篇（Xenium 评估、stVCR、SpaceBar、STORIES、GeneSPOT 等）",
   "items": []
+ },
+ {
+  "date": "2026-11-17",
+  "note": "例行更新：Science/Cell Genomics 扫描补 6 篇（SOAR、DeepScence、STMiner、OmicsTweezer 等）",
+  "items": []
  }
 ];
