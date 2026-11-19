@@ -241,5 +241,10 @@ const CHANGELOG = [
   "date": "2026-11-18",
   "note": "例行更新：引用追踪补 3 篇（机器学习综述、单细胞+空间联合插补、肿瘤微环境综述）",
   "items": []
+ },
+ {
+  "date": "2026-11-19",
+  "note": "例行更新：Nat Commun 扫描补 14 篇（Seq-Scope-eXpanded、Renoir、N-Orbit、STADiffuser 等）",
+  "items": []
  }
 ];
