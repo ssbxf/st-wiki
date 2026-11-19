@@ -246,5 +246,10 @@ const CHANGELOG = [
   "date": "2026-11-19",
   "note": "例行更新：Nat Commun 扫描补 14 篇（Seq-Scope-eXpanded、Renoir、N-Orbit、STADiffuser 等）",
   "items": []
+ },
+ {
+  "date": "2026-11-20",
+  "note": "例行更新：Nat Commun/Adv Sci 扫描补 9 篇（stPainter、SVP、SemanticST、SpaCut、SAGE 等）",
+  "items": []
  }
 ];
