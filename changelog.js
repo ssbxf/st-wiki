@@ -251,5 +251,10 @@ const CHANGELOG = [
   "date": "2026-11-20",
   "note": "例行更新：Nat Commun/Adv Sci 扫描补 9 篇（stPainter、SVP、SemanticST、SpaCut、SAGE 等）",
   "items": []
+ },
+ {
+  "date": "2026-11-20",
+  "note": "例行更新：NAR 扫描补 9 篇（Binary-SPA、STAT3D、STAN、CellMap、CROST 2.0 等）",
+  "items": []
  }
 ];
